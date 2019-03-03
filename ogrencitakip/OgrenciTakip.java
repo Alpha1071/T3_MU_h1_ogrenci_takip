@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Sukru
+ * @author Alp Arslan
  */
 public class OgrenciTakip {
 
